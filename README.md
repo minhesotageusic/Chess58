@@ -15,7 +15,7 @@ Running:
 Useful command:
   Type !help to open the possible commands list.
   
-Project Owners;
+Project Owners:
   Minhesota Geusic
     email: minhesota.geusic@outlook.com
     github: https://github.com/minhesotageusic
